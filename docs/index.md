@@ -28,6 +28,9 @@ Sie eignet sich fuer:
 - [Lehrplanbezug](lehrplanbezug.md)
 - [1. Jahrgang](jahrgang-1.md)
 - [2. Jahrgang](jahrgang-2.md)
+- [3. Jahrgang](jahrgang-3.md)
+- [4. Jahrgang](jahrgang-4.md)
+- [5. Jahrgang](jahrgang-5.md)
 - [Projektuebersicht](projekte.md)
 - [Downloads](downloads.md)
 
