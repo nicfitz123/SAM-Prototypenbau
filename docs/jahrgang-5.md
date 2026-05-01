@@ -7,58 +7,63 @@ title: 5. Jahrgang
 
 ## Leitidee
 
-Der 5. Jahrgang steht im Zeichen der **Diplomarbeit**.
+Der 5. Jahrgang steht laut Lehrplan im Zeichen **fächerübergreifender Projekte
+mit komplexen Anforderungen** — unter Nutzung aller erworbenen Kompetenzen
+aus der gesamten Ausbildung.
 
-Der Prototypenbau-Unterricht ist in diesem Jahr kein eigenstaendiges Projektband mehr,
-sondern er **unterstuetzt und begleitet die Diplomarbeit** direkt.
+Der Prototypenbau-Unterricht begleitet in diesem Jahr ein oder mehrere
+**größere Projekte** die alle Fachgebiete verbinden.
 
-Die Werkstatten- und Laborstunden werden genutzt fuer:
-- praktische Umsetzung der Diplomarbeitsprototypen
-- Fehlersuche und Optimierung unter Begleitung der Lehrkraft
-- Qualitaetssicherung und Vorbereitung der Praesentation
-- gezielte Vertiefung von Einzelkompetenzen die fuer die Diplomarbeit benoetigt werden
+Je nach schulinterner Regelung kann das bedeuten:
+- enge Abstimmung mit der Diplomarbeit, wenn diese praktische Prototypen umfasst
+- ein eigenständiges fächerübergreifendes Jahresprojekt parallel zur Diplomarbeit
+- eine Kombination aus beidem
 
-Die Schuelerinnen und Schueler sollen:
-- ihre Diplomarbeit selbststaendig und professionell umsetzen
-- komplexe Systeme vollstaendig entwickeln, testen und dokumentieren
-- Qualitaetssicherung und Projektmanagement eigenverantwortlich anwenden
-- ihre Ergebnisse fachgerecht praesentieren und argumentieren
+Die konkrete Umsetzung richtet sich nach den schulinternen Vorgaben
+und wird in Abstimmung mit der Schulleitung festgelegt.
+
+Die Schülerinnen und Schüler sollen:
+- komplexe technische Systeme selbstständig planen, entwickeln und realisieren
+- Qualitätssicherung und Projektmanagement eigenverantwortlich anwenden
+- ihre Ergebnisse vollständig dokumentieren und fachgerecht präsentieren
 
 ## Struktur des Jahres
 
-### Phase 1: Konkretisierung und Planung
-- Wochen: 1-6
-- Inhalt: Pflichtenheft finalisieren, Zeitplan erstellen, Ressourcen beschaffen,
-  erste Schaltungsentwuerfe und Softwarearchitektur festlegen
-- Unterstuetzung durch Lehrkraft: Projektmanagement-Methoden,
-  Machbarkeitspruefung, Bauteilrecherche
+Unabhängig davon ob die Projekte mit der Diplomarbeit koordiniert werden
+oder eigenständig laufen, folgt der Unterricht derselben Phasenlogik:
 
-### Phase 2: Entwicklung und Prototypenbau
+### Phase 1: Planung und Konkretisierung
+- Wochen: 1-6
+- Inhalt: Anforderungen definieren, Pflichtenheft erstellen, Zeitplan festlegen,
+  Ressourcen und Bauteile beschaffen, erste Entwürfe
+- Unterstützung durch Lehrkraft: Projektmanagement-Methoden,
+  Machbarkeitsprüfung, Bauteilrecherche
+
+### Phase 2: Entwicklung und Aufbau
 - Wochen: 7-20
 - Inhalt: Hardware aufbauen, Software entwickeln, Teilsysteme integrieren,
   laufende Fehlersuche und Optimierung
-- Unterstuetzung durch Lehrkraft: gezielte Hilfe bei konkreten technischen Problemen,
-  Code-Reviews, Schaltungsanalyse, Messunterstuetzung
+- Unterstützung durch Lehrkraft: gezielte Hilfe bei konkreten technischen Problemen,
+  Code-Reviews, Schaltungsanalyse, Messunterstützung
 
-### Phase 3: Test, Verifikation und Qualitaetssicherung
+### Phase 3: Test, Verifikation und Qualitätssicherung
 - Wochen: 21-28
 - Inhalt: systematische Tests nach selbst erstelltem Testplan,
-  Vergleich Soll- vs. Ist-Verhalten, Optimierungen, Sicherheitspruefungen,
+  Vergleich Soll- vs. Ist-Verhalten, Optimierungen, Sicherheitsprüfungen,
   Dokumentation der Testergebnisse
-- Unterstuetzung durch Lehrkraft: Testmethoden, normgerechte Dokumentation,
-  Verfahren der Qualitaetssicherung
+- Unterstützung durch Lehrkraft: Testmethoden, normgerechte Dokumentation,
+  Verfahren der Qualitätssicherung
 
-### Phase 4: Dokumentation und Praesentationsvorbereitung
+### Phase 4: Dokumentation und Präsentation
 - Wochen: 29-36
-- Inhalt: technische Dokumentation vervollstaendigen, Abstract erstellen,
-  Praesentation und Demonstration vorbereiten, Abgabe der Diplomarbeit
-- Unterstuetzung durch Lehrkraft: Feedback zu Dokumentation und Praesentation,
-  Reifepruefungsvorbereitung
+- Inhalt: technische Dokumentation vervollständigen, Präsentation vorbereiten,
+  Demonstration des Produkts, Abschluss und Reflexion
+- Unterstützung durch Lehrkraft: Feedback zu Dokumentation und Präsentation
 
-## Ergaenzende Inhalte neben der Diplomarbeit
+## Ergänzende Inhalte neben der Diplomarbeit
 
-Fuer Schuelerinnen und Schueler deren Diplomarbeitsthema bestimmte Bereiche
-nicht abdeckt, werden gezielt Ergaenzungen eingebaut:
+Für Schülerinnen und Schüler deren Diplomarbeitsthema bestimmte Bereiche
+nicht abdeckt, werden gezielt Ergänzungen eingebaut:
 
 **Integraltransformationen und Signalverarbeitung** (Lehrplanbezug: Angewandte Mathematik 9. Semester)
 - Laplace- und Fouriertransformation praktisch an Messsignalen anwenden
@@ -66,44 +71,46 @@ nicht abdeckt, werden gezielt Ergaenzungen eingebaut:
 **Datensicherheit und Rechtliche Grundlagen** (Lehrplanbezug: Fachspezifische Softwaretechnik 10. Semester)
 - DSGVO-Grundlagen, Datenschutz bei IoT-Systemen, Sicherheitsmassnahmen
 
-**Computergestuetzte Messsysteme** (Lehrplanbezug: Messtechnik 10. Semester)
-- LabVIEW oder Python fuer automatisierte Messungen und Auswertungen
+**Computergestützte Messsysteme** (Lehrplanbezug: Messtechnik 10. Semester)
+- LabVIEW oder Python für automatisierte Messungen und Auswertungen
 
 ## Jahreslogik
 
 Die Jahresplanung folgt dieser Abfolge:
-1. Diplomarbeit konkretisieren und planen
+1. Anforderungen definieren und Projekt planen
 2. Hardware und Software entwickeln und aufbauen
 3. Systematisch testen und optimieren
-4. Dokumentieren und praesentieren
+4. Dokumentieren und präsentieren
 
 ## Fachverzahnung
 
 Der 5. Jahrgang integriert **alle Fachgebiete** der gesamten Ausbildung:
-- `Hardwareentwicklung` — Schaltungsentwicklung und PCB-Design
-- `Messtechnik und Regelungssysteme` — Messung, Test und Verifikation
-- `Digitale Systeme und Computersysteme` — Embedded Systems, Signalverarbeitung
-- `Kommunikationssysteme und -netze` — je nach Diplomarbeitsthema
-- `Fachspezifische Softwaretechnik` — Software, Datenbanken, Sicherheit
-- `Hardwareentwicklung` — Projektmanagement und Qualitaetssicherung
+- **Hardwareentwicklung** — Schaltungsentwicklung und PCB-Design
+- **Messtechnik und Regelungssysteme** — Messung, Test und Verifikation
+- **Digitale Systeme und Computersysteme** — Embedded Systems, Signalverarbeitung
+- **Kommunikationssysteme und -netze** — je nach Diplomarbeitsthema
+- **Fachspezifische Softwaretechnik** — Software, Datenbanken, Sicherheit
+- **Hardwareentwicklung** — Projektmanagement und Qualitätssicherung
 
-## Sichtbare Kompetenzen am Jahresende (Reifepruefung)
+## Sichtbare Kompetenzen am Jahresende (Reifeprüfung)
 
-Die Absolventinnen und Absolventen koennen:
-- ein komplexes technisches System selbststaendig planen, entwickeln und realisieren
+Die Absolventinnen und Absolventen können:
+- ein komplexes technisches System selbstständig planen, entwickeln und realisieren
 - Schaltungen und Software nach Spezifikation entwickeln und verifizieren
 - ein Projekt mit professionellen Methoden des Projektmanagements abwickeln
-- Qualitaetssicherung systematisch planen und durchfuehren
-- ihre Arbeit in einer technischen Dokumentation vollstaendig und normgerecht beschreiben
-- ihre Ergebnisse vor einem Fachpublikum praesentieren und Fragen kompetent beantworten
+- Qualitätssicherung systematisch planen und durchführen
+- ihre Arbeit in einer technischen Dokumentation vollständig und normgerecht beschreiben
+- ihre Ergebnisse vor einem Fachpublikum präsentieren und Fragen kompetent beantworten
 
 ## Hinweis zur Lehrerrolle im 5. Jahrgang
 
 Im 5. Jahrgang wandelt sich die Rolle der Lehrkraft grundlegend:
 von der **anleitenden Lehrperson** zur **beratenden Begleitperson**.
 
-Die Schuelerinnen und Schueler tragen die Verantwortung fuer ihr Projekt selbst.
-Die Lehrkraft unterstuetzt, gibt Feedback, stellt Fragen und hilft bei
-konkreten technischen Problemen — aber loest diese nicht selbst.
+Die Schülerinnen und Schüler tragen die Verantwortung für ihr Projekt selbst.
+Die Lehrkraft unterstützt, gibt Feedback, stellt Fragen und hilft bei
+konkreten technischen Problemen — aber löst diese nicht selbst.
 
-Das ist der entscheidende Schritt zur ingenieurmaessigen Arbeitsweise.
+Das ist der entscheidende Schritt zur ingenieurmäßigen Arbeitsweise —
+unabhängig davon ob das Projekt die Diplomarbeit ist oder ein eigenständiges
+fächerübergreifendes Jahresprojekt.

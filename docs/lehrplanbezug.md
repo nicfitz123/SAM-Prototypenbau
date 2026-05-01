@@ -7,7 +7,7 @@ title: Lehrplanbezug
 
 ## Ausgangspunkt
 
-Die Planung basiert auf dem Lehrplan der `Hoeheren Lehranstalt fuer Elektronik und Technische Informatik`
+Die Planung basiert auf dem Lehrplan der `Höheren Lehranstalt fuer Elektronik und Technische Informatik`
 fuer die OeAS Moldau (BGBl. II Nr. 262/2015, schulspezifische Genehmigung GZ 2025-0.550.844).
 
 ## Prototypenbau elektronischer Systeme
@@ -16,28 +16,28 @@ Der Pflichtgegenstand ist im Lehrplan mit folgendem Stundenausmass ausgewiesen:
 
 | Jahrgang | Wochenstunden | Anmerkung |
 |----------|--------------|-----------|
-| 1. Jahrgang | 7 | Werkstaette |
-| 2. Jahrgang | 7 | Werkstaette |
-| 3. Jahrgang | 8 | Werkstaette und Werkstaettenlaboratorium |
-| 4. Jahrgang | 4 | Werkstaettenlaboratorium |
-| 5. Jahrgang | – | Inhalte integriert in Diplomarbeit und Laboratorium |
+| 1. Jahrgang | 7 | Werkstätte |
+| 2. Jahrgang | 7 | Werkstätte |
+| 3. Jahrgang | 8 | Werkstätte und Werkstättenlaboratorium |
+| 4. Jahrgang | 4 | Werkstättenlaboratorium |
+| 5. Jahrgang | – | Fächerübergreifende Projekte; Koordination mit Diplomarbeit schulautonom |
 
-Der Lehrplan betont in allen Jahrgaengen:
-- Werkstaettenbetrieb und Werkstaettenordnung
+Der Lehrplan betont in allen Jahrgängen:
+- Werkstättenbetrieb und Werkstättenordnung
 - Sicherheitsunterweisung und Einschulung
-- Qualitaetspruefung und Qualitaetssicherung
+- Qualitätsprüfung und Qualitätssicherung
 - Aufbau, Inbetriebnahme und Test von Baugruppen und Systemen
-- Herstellung eines oder mehrerer facheinschlaegiger Produkte auf Projektbasis
+- Herstellung eines oder mehrerer facheinschlägiger Produkte auf Projektbasis
 
-## Didaktische Ableitung (alle Jahrgaenge)
+## Didaktische Ableitung (alle Jahrgänge)
 
-Aus dem Lehrplan ergibt sich fuer den Unterricht:
+Aus dem Lehrplan ergibt sich für den Unterricht:
 - starke Praxisorientierung
-- projektorientierte Organisation — jede Unterrichtsphase fuehrt zu einem sichtbaren Produkt
+- projektorientierte Organisation — jede Unterrichtsphase führt zu einem sichtbaren Produkt
 - kurze Theorie-Impulse mit direkter Umsetzung in der Werkstatt
 - enge Abstimmung mit `Hardwareentwicklung` als zentralem Partnerfach
 - saubere Dokumentation und Fehlersuche als fixer Unterrichtsbestandteil
-- steigende Komplexitaet und Selbststaendigkeit ueber alle fuenf Jahrgaenge
+- steigende Komplexität und Selbstständigkeit über alle fünf Jahrgänge
 
 ---
 
@@ -51,11 +51,11 @@ Schwerpunkte laut Lehrplan:
 - Baugruppenfertigung 1
 
 Kompetenzorientiert bedeutet das:
-- Werkstoffe auswaehlen, bearbeiten und fuer elektronische Zwecke einsetzen
+- Werkstoffe auswählen, bearbeiten und für elektronische Zwecke einsetzen
 - Bauelemente erkennen, beschreiben und aus Datenblättern auswählen
 - Kabel konfektionieren und elektronische Verbindungen herstellen
 - Grundschaltungen der Elektronik als Prototyp aufbauen und in Betrieb nehmen
-- einfache messtechnische Sichtpruefungen durchfuehren und dokumentieren
+- einfache messtechnische Sichtprüfungen durchführen und dokumentieren
 
 Hinweis zur Interpretation:
 Der Lehrplanbegriff `einfache Elektroinstallationen` wird im Kontext dieser Ausbildung
@@ -63,7 +63,7 @@ als Kabelkonfektionierung, Anschluss elektronischer Betriebsmittel und Verdrahtu
 von Baugruppen verstanden — nicht als klassische Hausinstallation.
 
 Leitprojekte:
-- USB-Powered Lampe (Verbindungstechnik, Loeten, Gehaeusefertigung)
+- USB-Powered Lampe (Verbindungstechnik, Löten, Gehäusefertigung)
 - Elektronische Baugruppe mit LED/Summer-Schaltung
 - Integrationsprojekt mit mechanischem und elektronischem Teil
 
@@ -73,16 +73,16 @@ Leitprojekte:
 
 Schwerpunkte laut Lehrplan:
 - Verbindungstechnik 2
-- Leiterplattenfertigung 2 (CAD-gestuetzt)
+- Leiterplattenfertigung 2 (CAD-gestützt)
 - SMD-Technik
 - Baugruppenfertigung 2
 - Computertechnik 1
 - Digitaltechnik 1
 
 Kompetenzorientiert bedeutet das:
-- Bauelemente anhand von Datenblaettern auswaehlen und einsetzen
+- Bauelemente anhand von Datenblättern auswählen und einsetzen
 - Leiterplatten mit CAD-Software entwerfen und fertigen
-- SMD-Bauteile verarbeiten und Qualitaet beurteilen
+- SMD-Bauteile verarbeiten und Qualität beurteilen
 - Baugruppen systematisch in Betrieb nehmen, testen und reparieren
 - Prototypen digitaler Systeme aufbauen
 - erste Linux-basierte Systeme konfigurieren
@@ -90,7 +90,7 @@ Kompetenzorientiert bedeutet das:
 Hinweis zur Interpretation:
 `Computertechnik 1` wird nicht als klassisches PC-Zusammenbauen verstanden,
 sondern als Einstieg in Embedded Linux und Single-Board-Computer (Raspberry Pi).
-Das entspricht dem tatsaechlichen Stand der Industrie und des Lehrplans.
+Das entspricht dem tatsächlichen Stand der Industrie und des Lehrplans.
 
 Leitprojekte:
 - CAD-gestuetzte Leiterplatte mit Fertigungsunterlagen
@@ -103,7 +103,7 @@ Leitprojekte:
 
 Schwerpunkte laut Lehrplan (Laboratorium und Prototypenbau):
 - Hardwareentwicklung: komplexe Schaltungen nach Schaltplan aufbauen
-- Messtechnik: Messgeraete auswaehlen, Test und Fehlersuche durchfuehren
+- Messtechnik: Messgeräte auswählen, Test und Fehlersuche durchfuehren
 - Digitale Systeme: Prototypen digitaler Systeme fertigen und testen
 - Kommunikationssysteme: physikalische Vernetzung, Schnittstellen, Fehleranalyse
 
@@ -125,7 +125,7 @@ Leitprojekte:
 
 ## 4. Jahrgang
 
-Schwerpunkte laut Lehrplan (Werkstaettenlaboratorium):
+Schwerpunkte laut Lehrplan (Werkstättenlaboratorium):
 - Hardwareentwicklung: leistungselektronische Schaltungen, EMV, Projektmanagement
 - Messtechnik: computergestuetzte Messsysteme, Regelkreise
 - Digitale Systeme: Echtzeitbetriebssysteme, komplexe Mikrocontrollerprogramme
@@ -151,21 +151,21 @@ Leitprojekte:
 ## 5. Jahrgang
 
 Schwerpunkte laut Lehrplan (Laboratorium, fächerübergreifend):
-- fachuebergreifende Aufgabenstellungen mit komplexen Anforderungen
-- Nutzung aller erworbenen Kompetenzen aus allen Pflichtgegenstaenden
-- Qualitaetssicherung und Systemverifikation
+- fächerübergreifende Aufgabenstellungen mit komplexen Anforderungen
+- Nutzung aller erworbenen Kompetenzen aus allen Pflichtgegenständen
+- Qualitätssicherung und Systemverifikation
 - technische Dokumentation auf Abschlussniveau
 
 Kompetenzorientiert bedeutet das:
-- ein komplexes technisches System selbststaendig planen, entwickeln und realisieren
-- Qualitaetssicherung systematisch planen und durchfuehren
-- Ergebnisse normgerecht dokumentieren und fachgerecht praesentieren
-- Projektverantwortung vollstaendig selbst tragen
+- ein komplexes technisches System selbstständig planen, entwickeln und realisieren
+- Qualitätssicherung systematisch planen und durchführen
+- Ergebnisse normgerecht dokumentieren und fachgerecht präsentieren
+- Projektverantwortung vollständig selbst tragen
 
-Struktur des Jahres:
-Der Prototypenbau-Unterricht im 5. Jahrgang ist vollstaendig in die Diplomarbeit integriert.
-Die Werkstatten- und Laborstunden dienen der praktischen Umsetzung, Fehlersuche,
-Optimierung und Praesentation der Diplomarbeitsergebnisse.
-
-Die Lehrkraft wechselt die Rolle: von anleitend zu beratend.
-Die Schuelerinnen und Schueler tragen die Projektverantwortung selbst.
+Hinweis zur Interpretation:
+Der Lehrplan schreibt für den 5. Jahrgang **fächerübergreifende Projekte mit
+komplexen Anforderungen** vor — nicht explizit die Diplomarbeit.
+Je nach schulinterner Regelung können die Werkstatten- und Laborstunden
+eng mit der Diplomarbeit koordiniert werden oder als eigenständiges
+Jahresprojekt organisiert sein. Die konkrete Umsetzung wird in Abstimmung
+mit der Schulleitung festgelegt.

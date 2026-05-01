@@ -8,11 +8,11 @@ title: 2. Jahrgang
 ## Leitidee
 
 Im 2. Jahrgang bleibt `Hardwareentwicklung` das wichtigste Partnerfach.
-Zusaetzlich gewinnt `Messtechnik und Regelungssysteme` deutlich an Bedeutung.
+Zusätzlich gewinnt `Messtechnik und Regelungssysteme` deutlich an Bedeutung.
 
-Die Schuelerinnen und Schueler sollen:
+Die Schülerinnen und Schüler sollen:
 - professionellere Verbindungen herstellen
-- Leiterplatten systematischer fertigen und pruefen
+- Leiterplatten systematischer fertigen und prüfen
 - SMD-Bauteile verarbeiten
 - Baugruppen in Betrieb nehmen und reparieren
 - erste digitale und computertechnische Systeme praktisch aufbauen
@@ -23,13 +23,13 @@ Die Schuelerinnen und Schueler sollen:
 - Wochen: 1-6
 - Produkt: konfektionierter Kabelsatz oder verdrahtete Teilbaugruppe
 
-### P2 CAD-gestuetzte Leiterplatte
+### P2 CAD-gestützte Leiterplatte
 - Wochen: 7-12
 - Produkt: Projektplatine mit Fertigungsunterlagen
 
-### P3 SMD-Uebungsboard
+### P3 SMD-Übungsboard
 - Wochen: 13-18
-- Produkt: bestuecktes und geprueftes SMD-Board
+- Produkt: bestücktes und geprüftes SMD-Board
 
 ### P4 Elektronische Baugruppe mit Inbetriebnahme
 - Wochen: 19-26
@@ -37,8 +37,8 @@ Die Schuelerinnen und Schueler sollen:
 
 ### P5 Raspberry Pi Webradio
 - Wochen: 27-32
-- Produkt: funktionsfaehiges Webradio auf Basis Raspberry Pi mit Audioausgang und Netzwerkkonfiguration
-- Schwerpunkte: Linux-Grundlagen, Netzwerkkonfiguration, Softwareinstallation und -konfiguration, Gehaeuse- oder Traegerplattenfertigung, Systemdokumentation
+- Produkt: funktionsfähiges Webradio auf Basis Raspberry Pi mit Audioausgang und Netzwerkkonfiguration
+- Schwerpunkte: Linux-Grundlagen, Netzwerkkonfiguration, Softwareinstallation und -konfiguration, Gehäuse- oder Trägerplattenfertigung, Systemdokumentation
 
 ### P6 Einfache digitale Baugruppe
 - Wochen: 33-36
@@ -46,12 +46,12 @@ Die Schuelerinnen und Schueler sollen:
 
 ### P7 Integrationsprojekt
 - Wochen: 37-38
-- Produkt: kleines funktionsfaehiges System
+- Produkt: kleines funktionsfähiges System
 
 ## Jahreslogik
 
 Die Jahresplanung folgt dieser Abfolge:
-1. Qualitaet und professionelle Verbindungen
+1. Qualität und professionelle Verbindungen
 2. CAD und Leiterplatte
 3. SMD-Verarbeitung
 4. Baugruppe und Fehlersuche
@@ -62,19 +62,19 @@ Die Jahresplanung folgt dieser Abfolge:
 ## Fachverzahnung
 
 Besonders eng angebunden an:
-- `Hardwareentwicklung`
-- `Messtechnik und Regelungssysteme`
+- **Hardwareentwicklung**
+- **Messtechnik und Regelungssysteme**
 
-Zusaetzlich vorbereitend:
-- digitale Inhalte
-- `Fachspezifische Softwaretechnik` fuer Dokumentation und Systemarbeit
+Zusätzlich vorbereitend:
+- **digitale Inhalte**
+- **Fachspezifische Softwaretechnik** für Dokumentation und Systemarbeit
 
 ## Sichtbare Kompetenzen am Jahresende
 
-Die Schuelerinnen und Schueler koennen:
-- Verbindungen professionell herstellen und pruefen
+Die Schülerinnen und Schüler können:
+- Verbindungen professionell herstellen und prüfen
 - einfache PCB-Fertigungsschritte planen und kontrollieren
 - SMD-Bauteile verarbeiten und Fehler beurteilen
 - Baugruppen mit Datenblattbezug aufbauen und testen
-- einen Raspberry Pi in Betrieb nehmen, konfigurieren und fuer eine konkrete Anwendung einrichten
+- einen Raspberry Pi in Betrieb nehmen, konfigurieren und für eine konkrete Anwendung einrichten
 - einfache Logikschaltungen aufbauen, messen und dokumentieren

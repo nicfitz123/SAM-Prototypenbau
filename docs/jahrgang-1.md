@@ -10,12 +10,12 @@ title: 1. Jahrgang
 Im 1. Jahrgang ist `Hardwareentwicklung` das wichtigste Partnerfach.
 `Prototypenbau` setzt die dort gelegten Grundlagen praktisch um.
 
-Die Schuelerinnen und Schueler sollen:
+Die Schülerinnen und Schüler sollen:
 - sicher in der Werkstatt arbeiten
 - Werkstoffe bearbeiten
 - Bauelemente erkennen
 - einfache Verbindungen herstellen
-- einfache Schaltungen aufbauen, pruefen und dokumentieren
+- einfache Schaltungen aufbauen, prüfen und dokumentieren
 
 ## Projektband
 
@@ -23,14 +23,14 @@ Die Schuelerinnen und Schueler sollen:
 - Wochen: 2-6
 - Produkt: Halterung, Montageplatte oder Frontplatte
 
-### P2 Kunststoffteil fuer Elektronikgehause
+### P2 Kunststoffteil für Elektronikgehause
 - Wochen: 7-10
-- Produkt: Traegerplatte, Abdeckung oder Gehaeuseteil
+- Produkt: Trägerplatte, Abdeckung oder Gehäuseteil
 
 ### P3 USB-Powered Lampe
 - Wochen: 11-18
-- Produkt: funktionsfaehige USB-Lampe mit selbst geloeteter Schaltung und gefertigtem Gehaeuse
-- Schwerpunkte: Kabelkonfektionierung, Loeten (THT), Bauteilauswahl (LEDs, Widerstaende), einfache Gehaeusefertigung, Inbetriebnahme und Sichtpruefung
+- Produkt: funktionsfähige USB-Lampe mit selbst gelöteter Schaltung und gefertigtem Gehäuse
+- Schwerpunkte: Kabelkonfektionierung, Löten (THT), Bauteilauswahl (LEDs, Widerstände), einfache Gehäusefertigung, Inbetriebnahme und Sichtprüfung
 
 ### P4 Einfache Leiterplatte
 - Wochen: 19-24
@@ -42,7 +42,7 @@ Die Schuelerinnen und Schueler sollen:
 
 ### P6 Integrationsprojekt
 - Wochen: 35-37
-- Produkt: kleines Gesamtprodukt mit selbst gefertigtem Gehaeuse, Elektronik und USB-Versorgung (Erweiterung oder Variation der USB-Lampe aus P3)
+- Produkt: kleines Gesamtprodukt mit selbst gefertigtem Gehäuse, Elektronik und USB-Versorgung (Erweiterung oder Variation der USB-Lampe aus P3)
 
 ## Jahreslogik
 
@@ -53,24 +53,24 @@ Die Jahresplanung folgt dieser Abfolge:
 4. Verbindungstechnik
 5. Leiterplatte
 6. elektronische Baugruppe
-7. Integration und Praesentation
+7. Integration und Präsentation
 
 ## Fachverzahnung
 
 Besonders eng angebunden an:
-- `Hardwareentwicklung`
+- **Hardwareentwicklung**
 
 Punktuell angebunden an:
-- `Messtechnik und Regelungssysteme` vorbereitend
-- `Fachspezifische Softwaretechnik` fuer Dokumentation
+- **Messtechnik und Regelungssysteme** vorbereitend
+- **Fachspezifische Softwaretechnik** für Dokumentation
 
 ## Sichtbare Kompetenzen am Jahresende
 
-Die Schuelerinnen und Schueler koennen:
+Die Schülerinnen und Schüler können:
 - Werkzeuge sicher einsetzen
-- einfache Werkstuecke normnah fertigen
+- einfache Werkstücke normnah fertigen
 - Bauteile anhand von Datenblättern unterscheiden und richtig einsetzen
 - Kabel konfektionieren und einfache elektronische Verbindungen herstellen
-- einfache Schaltungen aufbauen, loeten und in Betrieb nehmen
-- einfache Messungen und Sichtpruefungen durchfuehren
+- einfache Schaltungen aufbauen, löten und in Betrieb nehmen
+- einfache Messungen und Sichtprüfungen durchführen
 - kurze technische Dokumentationen erstellen

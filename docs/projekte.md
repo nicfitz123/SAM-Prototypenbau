@@ -75,17 +75,20 @@ Jedes Projekt folgt moeglichst derselben Logik:
 
 ## 5. Jahrgang
 
-Im 5. Jahrgang gibt es kein eigenstaendiges Projektband mehr.
+Im 5. Jahrgang gibt es kein kleines Projektband mehr.
 
-Die Werkstatten- und Laborstunden sind vollstaendig in die **Diplomarbeit** integriert
-und folgen deren Meilensteinen:
+Der Lehrplan schreibt **fächerübergreifende Projekte mit komplexen Anforderungen** vor.
+Wie diese organisiert werden — als eigenständiges Jahresprojekt oder in Koordination
+mit der Diplomarbeit — ist **schulautonom** und wird in Abstimmung mit der Schulleitung festgelegt.
+
+Die Werkstatten- und Laborstunden folgen in jedem Fall derselben Phasenlogik:
 
 | Phase | Wochen | Inhalt |
 |-------|--------|--------|
-| Planung | 1–6 | Pflichtenheft, Zeitplan, Ressourcen, erste Entwuerfe |
+| Planung | 1–6 | Anforderungen, Pflichtenheft, Zeitplan, erste Entwürfe |
 | Entwicklung | 7–20 | Hardware, Software, Integration der Teilsysteme |
-| Test und Verifikation | 21–28 | Testplan, Soll-/Ist-Vergleich, Optimierung, Sicherheitspruefung |
-| Abschluss | 29–36 | Dokumentation, Abstract, Praesentation, Abgabe |
+| Test und Verifikation | 21–28 | Testplan, Soll-/Ist-Vergleich, Optimierung, Qualitätssicherung |
+| Abschluss | 29–36 | Dokumentation, Präsentation, Demonstration des Produkts |
 
 ---
 
@@ -112,7 +115,7 @@ Im 5. Jahrgang orientiert sich die Beurteilung an den Kriterien der Reifepruefun
 | 2 | PCB, SMD, Embedded Linux, Systeme aufbauen | teilweise angeleitet |
 | 3 | Systeme kombinieren, messen, vernetzen | begleitet |
 | 4 | Komplexe Systeme, Regelung, Echtzeit, Diplomarbeit vorbereiten | weitgehend selbststaendig |
-| 5 | Diplomarbeit | vollstaendig eigenverantwortlich |
+| 5 | Fächerübergreifendes Komplexprojekt (schulautonom ggf. mit Diplomarbeit koordiniert) | vollständig eigenverantwortlich |
 
 ## Warum diese Struktur sinnvoll ist
 
