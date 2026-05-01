@@ -20,7 +20,7 @@ Der Pflichtgegenstand ist im Lehrplan mit folgendem Stundenausmass ausgewiesen:
 | 2. Jahrgang | 7 | Werkstätte |
 | 3. Jahrgang | 8 | Werkstätte und Werkstättenlaboratorium |
 | 4. Jahrgang | 4 | Werkstättenlaboratorium |
-| 5. Jahrgang | – | Fächerübergreifende Projekte; Koordination mit Diplomarbeit schulautonom |
+| 5. Jahrgang | – | Fächerübergreifende Projekte; ca. 28–30 Wochen (Unterricht endet Ende April); Koordination mit Diplomarbeit schulautonom |
 
 Der Lehrplan betont in allen Jahrgängen:
 - Werkstättenbetrieb und Werkstättenordnung
@@ -63,9 +63,9 @@ als Kabelkonfektionierung, Anschluss elektronischer Betriebsmittel und Verdrahtu
 von Baugruppen verstanden — nicht als klassische Hausinstallation.
 
 Leitprojekte:
-- USB-Powered Lampe (Verbindungstechnik, Löten, Gehäusefertigung)
-- Elektronische Baugruppe mit LED/Summer-Schaltung
-- Integrationsprojekt mit mechanischem und elektronischem Teil
+- Elektronische Leuchte als Jahresprojekt — entsteht schrittweise über alle Teilprojekte
+- Verdrahtungsübung mit Kabelsatz (Verbindungstechnik, nicht klassische Hausinstallation)
+- Selbst gefertigte Leiterplatte mit LED-Schaltung
 
 ---
 
@@ -93,9 +93,9 @@ sondern als Einstieg in Embedded Linux und Single-Board-Computer (Raspberry Pi).
 Das entspricht dem tatsächlichen Stand der Industrie und des Lehrplans.
 
 Leitprojekte:
-- CAD-gestuetzte Leiterplatte mit Fertigungsunterlagen
-- SMD-Uebungsboard
-- Raspberry Pi Webradio (Computertechnik, Linux, Netzwerk)
+- CAD-gestützte Leiterplatte mit Fertigungsunterlagen
+- SMD-Lötboard
+- Linux-Audiosystem auf Raspberry Pi (Webradio oder Musikplayer)
 
 ---
 
@@ -116,10 +116,10 @@ Kompetenzorientiert bedeutet das:
 
 Leitprojekte:
 - Audioverstärker mit professionell gefertigter PCB (analog, messtechnisch verifiziert)
-- Digitale Baugruppe mit FPGA oder CPLD
+- Programmierbarer Logikbaustein (FPGA oder CPLD)
 - Netzwerkinstallation nach Standard
-- Schnittstellenprojekt zwischen zwei Systemen
-- Integrationsprojekt: analoges und digitales System kombiniert
+- Zwei Systeme, eine Verbindung (Schnittstellen)
+- Digitales Messsystem als Jahresabschluss
 
 ---
 
@@ -140,11 +140,10 @@ Kompetenzorientiert bedeutet das:
 - eigene Diplomarbeitsideen konkretisieren und als Vorprojekt umsetzen
 
 Leitprojekte:
-- Sensor-Aktor-System mit PID-Regelung (z.B. Temperatur- oder Motorsteuerung)
+- Sensor-Aktor-System mit PID-Regelung
 - Embedded-System mit Echtzeitbetriebssystem (FreeRTOS, STM32)
-- Drahtloses Messsystem (WLAN oder Bluetooth)
-- Leistungselektronisches Teilsystem (Schaltwandler oder H-Bruecke)
-- Vorprojekt Diplomarbeit mit Anforderungsanalyse und erstem Prototyp
+- Leistungselektronisches Teilsystem (Schaltwandler oder H-Brücke)
+- Drahtloses Mess- und Regelsystem als Jahresabschluss
 
 ---
 

@@ -11,10 +11,14 @@ Der 5. Jahrgang steht laut Lehrplan im Zeichen **fächerübergreifender Projekte
 mit komplexen Anforderungen** — unter Nutzung aller erworbenen Kompetenzen
 aus der gesamten Ausbildung.
 
-Der Prototypenbau-Unterricht begleitet in diesem Jahr ein oder mehrere
-**größere Projekte** die alle Fachgebiete verbinden.
+**Wichtiger Hinweis zur Zeitplanung:** Der aktive Unterricht endet im 5. Jahrgang
+bereits Ende April — danach folgen die Maturaprüfungen. Für den Prototypenbau
+stehen damit realistisch **ca. 28–30 Unterrichtswochen** zur Verfügung,
+nicht 38 wie in den unteren Jahrgängen.
 
-Je nach schulinterner Regelung kann das bedeuten:
+Die Phasenplanung trägt dem Rechnung.
+
+Je nach schulinterner Regelung kann der Unterricht bedeuten:
 - enge Abstimmung mit der Diplomarbeit, wenn diese praktische Prototypen umfasst
 - ein eigenständiges fächerübergreifendes Jahresprojekt parallel zur Diplomarbeit
 - eine Kombination aus beidem
@@ -30,24 +34,25 @@ Die Schülerinnen und Schüler sollen:
 ## Struktur des Jahres
 
 Unabhängig davon ob die Projekte mit der Diplomarbeit koordiniert werden
-oder eigenständig laufen, folgt der Unterricht derselben Phasenlogik:
+oder eigenständig laufen, folgt der Unterricht derselben Phasenlogik —
+angepasst an das verkürzte Schuljahr:
 
 ### Phase 1: Planung und Konkretisierung
-- Wochen: 1-6
+- Wochen: 1–5
 - Inhalt: Anforderungen definieren, Pflichtenheft erstellen, Zeitplan festlegen,
   Ressourcen und Bauteile beschaffen, erste Entwürfe
 - Unterstützung durch Lehrkraft: Projektmanagement-Methoden,
   Machbarkeitsprüfung, Bauteilrecherche
 
 ### Phase 2: Entwicklung und Aufbau
-- Wochen: 7-20
+- Wochen: 6–18
 - Inhalt: Hardware aufbauen, Software entwickeln, Teilsysteme integrieren,
   laufende Fehlersuche und Optimierung
 - Unterstützung durch Lehrkraft: gezielte Hilfe bei konkreten technischen Problemen,
   Code-Reviews, Schaltungsanalyse, Messunterstützung
 
 ### Phase 3: Test, Verifikation und Qualitätssicherung
-- Wochen: 21-28
+- Wochen: 19–24
 - Inhalt: systematische Tests nach selbst erstelltem Testplan,
   Vergleich Soll- vs. Ist-Verhalten, Optimierungen, Sicherheitsprüfungen,
   Dokumentation der Testergebnisse
@@ -55,44 +60,47 @@ oder eigenständig laufen, folgt der Unterricht derselben Phasenlogik:
   Verfahren der Qualitätssicherung
 
 ### Phase 4: Dokumentation und Präsentation
-- Wochen: 29-36
+- Wochen: 25–30
 - Inhalt: technische Dokumentation vervollständigen, Präsentation vorbereiten,
-  Demonstration des Produkts, Abschluss und Reflexion
-- Unterstützung durch Lehrkraft: Feedback zu Dokumentation und Präsentation
+  Demonstration des Produkts, Abschluss und Reflexion — **vor Ende April abgeschlossen**
+- Unterstützung durch Lehrkraft: Feedback zu Dokumentation und Präsentation,
+  Vorbereitung auf allfällige Fachfragen in der Matura
 
-## Ergänzende Inhalte neben der Diplomarbeit
+## Ergänzende Inhalte
 
-Für Schülerinnen und Schüler deren Diplomarbeitsthema bestimmte Bereiche
+Für Schülerinnen und Schüler deren Projekt bestimmte Lehrplanbereiche
 nicht abdeckt, werden gezielt Ergänzungen eingebaut:
 
-**Integraltransformationen und Signalverarbeitung** (Lehrplanbezug: Angewandte Mathematik 9. Semester)
+**Integraltransformationen und Signalverarbeitung**
+(Lehrplanbezug: Angewandte Mathematik 9. Semester)
 - Laplace- und Fouriertransformation praktisch an Messsignalen anwenden
 
-**Datensicherheit und Rechtliche Grundlagen** (Lehrplanbezug: Fachspezifische Softwaretechnik 10. Semester)
-- DSGVO-Grundlagen, Datenschutz bei IoT-Systemen, Sicherheitsmassnahmen
+**Datensicherheit und Rechtliche Grundlagen**
+(Lehrplanbezug: Fachspezifische Softwaretechnik 10. Semester)
+- DSGVO-Grundlagen, Datenschutz bei IoT-Systemen, Sicherheitsmaßnahmen
 
-**Computergestützte Messsysteme** (Lehrplanbezug: Messtechnik 10. Semester)
-- LabVIEW oder Python für automatisierte Messungen und Auswertungen
+**Computergestützte Messsysteme**
+(Lehrplanbezug: Messtechnik 10. Semester)
+- Python für automatisierte Messungen und Auswertungen
 
 ## Jahreslogik
 
-Die Jahresplanung folgt dieser Abfolge:
-1. Anforderungen definieren und Projekt planen
-2. Hardware und Software entwickeln und aufbauen
-3. Systematisch testen und optimieren
-4. Dokumentieren und präsentieren
+1. Projekt planen und konkretisieren (5 Wochen)
+2. Entwickeln und aufbauen (13 Wochen)
+3. Testen und optimieren (6 Wochen)
+4. Dokumentieren und präsentieren (6 Wochen)
+5. Matura — kein Prototypenbau-Unterricht mehr
 
 ## Fachverzahnung
 
 Der 5. Jahrgang integriert **alle Fachgebiete** der gesamten Ausbildung:
-- **Hardwareentwicklung** — Schaltungsentwicklung und PCB-Design
+- **Hardwareentwicklung** — Schaltungsentwicklung, PCB-Design, Projektmanagement
 - **Messtechnik und Regelungssysteme** — Messung, Test und Verifikation
 - **Digitale Systeme und Computersysteme** — Embedded Systems, Signalverarbeitung
-- **Kommunikationssysteme und -netze** — je nach Diplomarbeitsthema
+- **Kommunikationssysteme und -netze** — je nach Projektthema
 - **Fachspezifische Softwaretechnik** — Software, Datenbanken, Sicherheit
-- **Hardwareentwicklung** — Projektmanagement und Qualitätssicherung
 
-## Sichtbare Kompetenzen am Jahresende (Reifeprüfung)
+## Sichtbare Kompetenzen am Jahresende
 
 Die Absolventinnen und Absolventen können:
 - ein komplexes technisches System selbstständig planen, entwickeln und realisieren
@@ -109,7 +117,7 @@ von der **anleitenden Lehrperson** zur **beratenden Begleitperson**.
 
 Die Schülerinnen und Schüler tragen die Verantwortung für ihr Projekt selbst.
 Die Lehrkraft unterstützt, gibt Feedback, stellt Fragen und hilft bei
-konkreten technischen Problemen — aber löst diese nicht selbst.
+konkreten technischen Problemen — löst diese aber nicht selbst.
 
 Das ist der entscheidende Schritt zur ingenieurmäßigen Arbeitsweise —
 unabhängig davon ob das Projekt die Diplomarbeit ist oder ein eigenständiges

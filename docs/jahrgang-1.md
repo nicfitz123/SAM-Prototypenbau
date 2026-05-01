@@ -17,43 +17,57 @@ Die Schülerinnen und Schüler sollen:
 - einfache Verbindungen herstellen
 - einfache Schaltungen aufbauen, prüfen und dokumentieren
 
+Das **Leitprojekt des Jahres** ist die **Elektronische Leuchte** — sie entsteht
+schrittweise über das ganze Jahr und vereint alle gelernten Fertigkeiten:
+Mechanik, Kunststoff, Löten, eigene Leiterplatte und Dokumentation.
+
 ## Projektband
 
 ### P1 Mechanisches Grundprodukt
-- Wochen: 2-6
-- Produkt: Halterung, Montageplatte oder Frontplatte
+- Wochen: 2–6
+- Produkt: Gehäuseunterteil oder Montageplatte für die spätere Elektronische Leuchte
+- Schwerpunkte: Messen, Anreißen, Sägen, Feilen, Bohren, Maßkontrolle
 
-### P2 Kunststoffteil für Elektronikgehause
-- Wochen: 7-10
-- Produkt: Trägerplatte, Abdeckung oder Gehäuseteil
+### P2 Kunststoffgehäuse
+- Wochen: 7–10
+- Produkt: Gehäuseoberteil oder Abdeckung aus Kunststoff für die Elektronische Leuchte
+- Schwerpunkte: Kunststoff bearbeiten, Heißluft, Kleben, Formgebung
 
-### P3 USB-Powered Lampe
-- Wochen: 11-18
-- Produkt: funktionsfähige USB-Lampe mit selbst gelöteter Schaltung und gefertigtem Gehäuse
-- Schwerpunkte: Kabelkonfektionierung, Löten (THT), Bauteilauswahl (LEDs, Widerstände), einfache Gehäusefertigung, Inbetriebnahme und Sichtprüfung
+### P3 Verdrahtungsübung
+- Wochen: 11–15
+- Produkt: Verdrahteter Kabelsatz mit USB-Stecker, Schalter und Anschlussklemmen
+- Schwerpunkte: Kabelkonfektionierung, Abisolieren, Crimpen, Löten von Verbindern,
+  Sichtprüfung und Durchgangsmessung
 
-### P4 Einfache Leiterplatte
-- Wochen: 19-24
-- Produkt: Musterplatine oder kleine Funktionsplatine
+### P4 Leiterplatte für die Leuchte
+- Wochen: 16–24
+- Produkt: Selbst entworfene und gefertigte Leiterplatte mit LED-Schaltung
+- Schwerpunkte: Schaltplan lesen, Layout skizzieren, Platine ätzen oder fräsen,
+  Bauteile einlöten, Funktion prüfen
 
 ### P5 Elektronische Baugruppe
-- Wochen: 25-34
-- Produkt: LED-, Blink- oder Summer-Schaltung
+- Wochen: 25–33
+- Produkt: Ergänzungsschaltung zur Leuchte — z.B. Blink-, Dimm- oder Sensor-Funktion
+- Schwerpunkte: Schaltung nach Vorgabe aufbauen, Bauelemente aus Datenblatt auswählen,
+  Messung und Fehlersuche, Dokumentation
 
-### P6 Integrationsprojekt
-- Wochen: 35-37
-- Produkt: kleines Gesamtprodukt mit selbst gefertigtem Gehäuse, Elektronik und USB-Versorgung (Erweiterung oder Variation der USB-Lampe aus P3)
+### P6 Elektronische Leuchte — Gesamtprodukt
+- Wochen: 34–37
+- Produkt: Fertige Elektronische Leuchte — Gehäuse (P1+P2), Verdrahtung (P3),
+  Leiterplatte (P4) und Zusatzschaltung (P5) zusammengebaut, geprüft und dokumentiert
+- Schwerpunkte: Integration aller Teilprodukte, Funktionsprüfung, Sicherheitsprüfung,
+  Kurzpräsentation, technisches Protokoll
 
 ## Jahreslogik
 
 Die Jahresplanung folgt dieser Abfolge:
 1. Sicherheit und Werkstattkultur
-2. Mechanische Fertigkeiten
-3. Kunststoffbearbeitung
-4. Verbindungstechnik
-5. Leiterplatte
-6. elektronische Baugruppe
-7. Integration und Präsentation
+2. Mechanische Fertigung — Gehäuseunterteil
+3. Kunststoffbearbeitung — Gehäuseoberteil
+4. Verbindungstechnik — Kabelsatz
+5. Leiterplattenfertigung — LED-Schaltung
+6. Elektronische Baugruppe — Zusatzfunktion
+7. Integration und Präsentation — Gesamtprodukt
 
 ## Fachverzahnung
 
@@ -67,10 +81,11 @@ Punktuell angebunden an:
 ## Sichtbare Kompetenzen am Jahresende
 
 Die Schülerinnen und Schüler können:
-- Werkzeuge sicher einsetzen
-- einfache Werkstücke normnah fertigen
-- Bauteile anhand von Datenblättern unterscheiden und richtig einsetzen
+- Werkzeuge sicher und normnah einsetzen
+- einfache Werkstücke aus Metall und Kunststoff fertigen
+- Bauteile anhand von Datenblättern auswählen und richtig einsetzen
 - Kabel konfektionieren und einfache elektronische Verbindungen herstellen
+- eine einfache Leiterplatte fertigen und bestücken
 - einfache Schaltungen aufbauen, löten und in Betrieb nehmen
-- einfache Messungen und Sichtprüfungen durchführen
-- kurze technische Dokumentationen erstellen
+- Messungen und Sichtprüfungen durchführen und dokumentieren
+- ein vollständiges technisches Protokoll erstellen

@@ -5,23 +5,26 @@ title: Start
 
 # Prototypenbau elektronischer Systeme
 
-Diese Seite dokumentiert die Unterrichtsplanung fuer das Fach `Prototypenbau elektronischer Systeme` in der `1. und 2. Klasse`.
+Fitzgerald Rodas, Stand 1. Mai 2026
+
+Diese Seite dokumentiert die Unterrichtsplanung fuer das Fach **Prototypenbau elektronischer Systeme**
+an der Österreichischen Auslandsschule Erhard Busek in Chișinău, Republik Moldau.
 
 Im Mittelpunkt stehen:
-- die Orientierung am Lehrplan
-- eine projektorientierte Unterrichtsorganisation
-- die enge Verzahnung mit `Hardwareentwicklung`
+- die Orientierung am Lehrplan (BGBl. II Nr. 262/2015, Genehmigung GZ 2025-0.550.844)
+- eine projektorientierte Unterrichtsorganisation über alle fünf Jahrgänge
+- die enge Verzahnung mit den Theoriefächern
 - die praktische Umsetzung von Theorie in reale Produkte, Messungen und Fehlersuche
 
-## Ziel der Seite
+## Ziel dieser Seite
 
-Die Seite soll eine klare, nachvollziehbare und pflegbare Darstellung der Unterrichtsarbeit bieten.
+Diese Seite bietet eine klare, nachvollziehbare und pflegbare Darstellung der Unterrichtsarbeit.
 
-Sie eignet sich fuer:
+Sie eignet sich für:
 - eigene Unterrichtsorganisation
 - Abstimmung im Fachteam
 - transparente Dokumentation der Jahresplanung
-- spaetere Erweiterung um Materialien, Arbeitsblaetter und Projektunterlagen
+- spätere Erweiterung um Materialien, Arbeitsblätter und Projektunterlagen
 
 ## Navigation
 
@@ -36,27 +39,39 @@ Sie eignet sich fuer:
 
 ## Didaktischer Ansatz
 
-Der Unterricht ist als `Projektband` gedacht.
+Der Unterricht ist als **Projektband** gedacht.
 
 Das bedeutet:
 - Projekte laufen nicht neben der Jahresplanung, sondern bilden die Jahresplanung ab
-- jede groessere Unterrichtsphase fuehrt zu einem sichtbaren Produkt
+- jede größere Unterrichtsphase führt zu einem sichtbaren Produkt
 - Theorie, Fertigung, Inbetriebnahme, Messung, Fehlersuche und Dokumentation werden verbunden
+- die Komplexität und Selbstständigkeit steigen systematisch von Jahrgang zu Jahrgang
 
 ## Fachverzahnung
 
-Die staerkste Verzahnung besteht mit:
-- `Hardwareentwicklung`
+Die stärkste Verzahnung besteht in allen Jahrgängen mit:
+- **Hardwareentwicklung**
 
-Ergaenzend wichtig sind:
-- `Messtechnik und Regelungssysteme`
-- im 2. Jahrgang vorbereitend digitale Inhalte
-- punktuell `Fachspezifische Softwaretechnik`
+Ergänzend und mit steigendem Gewicht in den höheren Jahrgängen:
+- **Messtechnik und Regelungssysteme**
+- **Digitale Systeme und Computersysteme**
+- **Kommunikationssysteme und -netze**
+- **Fachspezifische Softwaretechnik**
+
+## Progression über alle Jahrgänge
+
+| Jahrgang | Schwerpunkt | Leitprojekt |
+|----------|-------------|-------------|
+| 1 | Grundfertigkeiten, Werkzeuge, einfache Schaltungen | Elektronische Leuchte |
+| 2 | PCB, SMD, Embedded Linux | Linux-Audiosystem (Raspberry Pi) |
+| 3 | Systeme kombinieren, messen, vernetzen | Digitales Messsystem |
+| 4 | Regelung, Echtzeit, drahtlose Kommunikation | Drahtloses Mess- und Regelsystem |
+| 5 | Fächerübergreifendes Komplexprojekt (~30 Wochen) | schulautonom, ggf. Diplomarbeit |
 
 ## Aktueller Stand
 
-Fuer diese Seite liegen bereits folgende Planungen vor:
-- Unterrichtsplan fuer 1. und 2. Klasse
-- verzahnte Jahresplanung
-- Projektliste mit Kompetenzmatrix
-- zusammengefuehrte Masterplanung nach Schulwochen
+Für alle fünf Jahrgänge liegen vor:
+- Lehrplanbezug mit Interpretation und didaktischer Ableitung
+- Jahresplanung mit Projektband und Wochenzuordnung
+- Projektuebersicht mit Hauptbezug zu den Theoriefächern
+- Bewertungslogik und Progressionsübersicht
