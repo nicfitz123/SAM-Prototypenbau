@@ -1,0 +1,35 @@
+site_name: SAM Prototypenbau
+site_url: https://nicfitz123.github.io/SAM-Prototypenbau/
+repo_url: https://github.com/nicfitz123/SAM-Prototypenbau/
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: material
+  language: de
+  palette:
+    primary: indigo
+    accent: blue
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+
+nav:
+  - Startseite: index.md
+  - Lehrplanbezug: lehrplanbezug.md
+  - 1. Jahrgang: jahrgang-1.md
+  - 2. Jahrgang: jahrgang-2.md
+  - Projekte: projekte.md
+  - Downloads: downloads.md
+
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition
+  - tables
+  - fenced_code
+
+plugins:
+  - search
+  - tags
