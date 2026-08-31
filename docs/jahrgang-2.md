@@ -7,87 +7,51 @@ title: 2. Jahrgang
 
 ## Leitidee
 
-Im 2. Jahrgang bleibt `Hardwareentwicklung` das wichtigste Partnerfach.
-Zusätzlich gewinnt `Messtechnik und Regelungssysteme` deutlich an Bedeutung.
+Im 2. Jahrgang bleibt **Hardwareentwicklung** das wichtigste Partnerfach,
+**Messtechnik und Regelungssysteme** gewinnt deutlich an Bedeutung.
 
-Die Schülerinnen und Schüler sollen:
-- professionellere Verbindungen herstellen
-- Leiterplatten systematischer fertigen und prüfen
-- SMD-Bauteile verarbeiten
-- Baugruppen in Betrieb nehmen und reparieren
-- erste digitale und Linux-basierte Systeme praktisch aufbauen
-
-Das **Leitprojekt des Jahres** ist das **Linux-Audiosystem** (Raspberry Pi
-als Webradio oder Musikplayer) — es steht am Ende des Jahres als
-krönender Abschluss und verbindet Hardware, Software und Netzwerk.
+Der Schwerpunkt liegt auf klar strukturierten Projektphasen, Messaufgaben,
+einfacher Steuerung und sauberer Dokumentation. Die Projekte werden so gewählt,
+dass sie reale Produkte ergeben und zugleich gut in den Werkstattalltag passen.
 
 ## Projektband
 
-### P1 Professionelle Verbindung im System
-- Wochen: 1–6
-- Produkt: Konfektionierter Kabelsatz oder verdrahtete Teilbaugruppe nach Norm
-- Schwerpunkte: Crimpen, Steckersysteme, Kabelplan lesen,
-  Durchgangsmessung, Qualitätsprüfung
+### P1 Projektmanagement und Einführung
+Wochen 1–5. Projektauftrag, Lastenheft, Pflichtenheft und Terminplan.
+Schwerpunkte: Problem sauber beschreiben, Anforderungen dokumentieren,
+Arbeitspakete planen, Ergebnisse präsentieren und reflektieren.
 
-### P2 CAD-gestützte Leiterplatte
-- Wochen: 7–12
-- Produkt: Projektplatine mit vollständigen Fertigungsunterlagen (Schaltplan, Layout, Stückliste)
-- Schwerpunkte: KiCad oder vergleichbares PCB-Tool, Design Rule Check,
-  Fertigung, Bestückung, Sichtprüfung
+### P2 Falling Sticks
+Wochen 6–10. Reaktionsspiel mit Sensorik und messbarer Reaktionszeit.
+Schwerpunkte: Auslösemechanismus, Sensoren, Zeitmessung, Anzeige, Test.
 
-### P3 SMD-Lötboard
-- Wochen: 13–18
-- Produkt: Definiertes SMD-Board — bestückt, gelötet, elektrisch geprüft
-- Schwerpunkte: SMD-Bauteile erkennen und handhaben, Lötpaste,
-  Heißluft-Reworkstation, Stereomikroskop, Fehlersuche unter Vergrößerung
+### P3 Gewächshaus mit Umweltmessung
+Wochen 11–15. Kleines Gewächshaus mit Temperatur-, Luftfeuchte-, Licht-
+und Bodenfeuchtemessung.
+Schwerpunkte: Sensorik, Anzeige oder Logging, optionale Bewässerung,
+Auswertung der Messwerte.
 
-### P4 Analoge Baugruppe mit Inbetriebnahme
-- Wochen: 19–26
-- Produkt: Kleine analoge oder gemischte Baugruppe — z.B. Verstärker,
-  Netzteil oder Sensorschaltung
-- Schwerpunkte: Schaltung mit Datenblatt aufbauen, Messung mit Oszilloskop
-  und Multimeter, systematische Fehlersuche, Messprotokoll
+### P4 Wasserrakete mit Höhenmessung
+Wochen 16–20. Rakete mit dokumentierter Höhenmessung.
+Schwerpunkte: Sicherheitskonzept, Startvorbereitung, Barometer- oder Winkelmessung,
+Messreihen vergleichen und auswerten.
 
-### P5 Digitale Grundschaltung
-- Wochen: 27–30
-- Produkt: Einfache Logikschaltung mit messbaren und dokumentierten Signalen
-- Schwerpunkte: Logikbausteine, Signalverlauf mit Logikanalysator,
-  Wahrheitstabelle verifizieren, Protokoll
+### P5 Airhockey
+Wochen 21–25. Elektronischer Airhockey-Tisch mit Treffererkennung und Anzeige.
+Schwerpunkte: Luftkissen, Tore, Sensoren, Punkteanzeige, Spieltest.
 
-### P6 Linux-Audiosystem
-- Wochen: 31–38
-- Produkt: Funktionsfähiges Webradio oder Musikplayer auf Basis Raspberry Pi —
-  mit Audioausgang, Netzwerkkonfiguration und selbst gefertigter Trägerplatte
-- Schwerpunkte: Linux-Grundlagen, Paketmanagement, Netzwerkkonfiguration,
-  Softwareinstallation und -konfiguration, Systemdokumentation,
-  Gehäuse- oder Trägerplattenfertigung, Abschlusspräsentation
+### P6 Spielmessung
+Wochen 26–29. Messsystem für Zeit, Geschwindigkeit oder Trefferzahl.
+Schwerpunkte: Messaufbau, Daten übertragen, vergleichen, einfach auswerten.
 
-## Jahreslogik
+### P7 Pick & Place (SPS)
+Wochen 30–33. Einfache Pick-and-Place-Station mit Sensoren, Aktoren und Ablaufsteuerung.
+Schwerpunkte: Greifer, Endschalter, Schrittkette oder SPS-Logik, Test.
 
-Die Jahresplanung folgt dieser Abfolge:
-1. Professionelle Verbindungstechnik nach Norm
-2. CAD-gestützte Leiterplattenfertigung
-3. SMD-Verarbeitung und Qualitätsprüfung
-4. Analoge Baugruppe mit messtechnischer Verifikation
-5. Digitale Grundschaltung
-6. Linux-Audiosystem als Jahresabschluss
+### P8 Datenbank - Vergleichs-DB
+Wochen 34–36. Kleine Vergleichs-Datenbank für Messwerte und Scores.
+Schwerpunkte: Datenstruktur, Speicherung, Auswertungen, Bestenliste.
 
-## Fachverzahnung
-
-Besonders eng angebunden an:
-- **Hardwareentwicklung**
-- **Messtechnik und Regelungssysteme**
-
-Zusätzlich vorbereitend:
-- **Digitale Systeme und Computersysteme**
-- **Fachspezifische Softwaretechnik** für Dokumentation und Systemarbeit
-
-## Sichtbare Kompetenzen am Jahresende
-
-Die Schülerinnen und Schüler können:
-- Verbindungen professionell herstellen, prüfen und dokumentieren
-- PCB-Fertigungsschritte mit CAD-Tool planen und kontrollieren
-- SMD-Bauteile verarbeiten und Lötfehler beurteilen
-- Baugruppen mit Datenblattbezug aufbauen, messen und testen
-- einfache Logikschaltungen aufbauen und messtechnisch dokumentieren
-- einen Einplatinen-Computer in Betrieb nehmen und für eine konkrete Anwendung konfigurieren
+### P9 Abschlussprojekt
+Wochen 37–38. Eigenes funktionsfähiges Gesamtprojekt mit Dokumentation und Präsentation.
+Schwerpunkte: selbst wählen, planen, bauen, prüfen, verbessern.

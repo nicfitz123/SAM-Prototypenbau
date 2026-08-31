@@ -5,31 +5,6 @@ title: Projektübersicht
 
 # Projektübersicht
 
-## Grundsatz
-
-Die Projekte laufen nicht neben dem Unterricht, sondern `sind` die Unterrichtsstruktur.
-
-Jeder Projektblock verbindet:
-- kurzen Theorieinput
-- praktische Umsetzung
-- Inbetriebnahme
-- Messung und Prüfung
-- Fehlersuche
-- Dokumentation
-
-## Projektstruktur
-
-Jedes Projekt folgt möglichst derselben Logik:
-1. Auftrag und Zielprodukt
-2. Vorwissen und Theoriebezug
-3. Planung und Materialauswahl
-4. Fertigung oder Aufbau
-5. Inbetriebnahme und Messung
-6. Fehlersuche oder Optimierung
-7. Kurzprotokoll und Reflexion
-
----
-
 ## Projekte 1. Jahrgang
 
 Leitprojekt des Jahres: **Elektronische Leuchte** — entsteht schrittweise über P1 bis P6.
@@ -39,22 +14,25 @@ Leitprojekt des Jahres: **Elektronische Leuchte** — entsteht schrittweise übe
 | P1 | 2–6 | Mechanisches Grundprodukt — Gehäuseunterteil für die Leuchte | Hardwareentwicklung |
 | P2 | 7–10 | Kunststoffgehäuse — Gehäuseoberteil oder Abdeckung | Hardwareentwicklung |
 | P3 | 11–15 | Verdrahtungsübung — Kabelsatz mit USB-Stecker und Schalter | Hardwareentwicklung |
-| P4 | 16–24 | Leiterplatte für die Leuchte — LED-Schaltung selbst entworfen und gefertigt | Hardwareentwicklung |
-| P5 | 25–33 | Elektronische Baugruppe — Ergänzungsschaltung (Blink, Dimm oder Sensor) | Hardwareentwicklung |
-| P6 | 34–37 | Elektronische Leuchte — alle Teile zusammengebaut, geprüft, präsentiert | Hardwareentwicklung |
+| P4 | 16–23 | Leiterplatte für die Leuchte — LED-Schaltung selbst entworfen und gefertigt | Hardwareentwicklung |
+| P5 | 24–31 | Elektronische Baugruppe — Ergänzungsschaltung (Blink, Dimm oder Sensor) | Hardwareentwicklung |
+| P6 | 32–37 | Elektronische Leuchte — alle Teile zusammengebaut, geprüft, präsentiert | Hardwareentwicklung |
 
 ## Projekte 2. Jahrgang
 
-Leitprojekt des Jahres: **Linux-Audiosystem** (Raspberry Pi Webradio oder Musikplayer).
+Leitprojekt des Jahres: **Projektband mit Mess-, Steuerungs- und Automatisierungsprojekten**.
 
 | Projekt | Wochen | Produkt | Hauptbezug |
 |---------|--------|---------|------------|
-| P1 | 1–6 | Professioneller Kabelsatz oder verdrahtete Teilbaugruppe nach Norm | Hardwareentwicklung |
-| P2 | 7–12 | CAD-gestützte Leiterplatte mit vollständigen Fertigungsunterlagen | Hardwareentwicklung |
-| P3 | 13–18 | SMD-Lötboard — bestückt, gelötet, elektrisch geprüft | Hardwareentwicklung |
-| P4 | 19–26 | Analoge Baugruppe mit Inbetriebnahme und Fehlersuche | Hardwareentwicklung + Messtechnik |
-| P5 | 27–30 | Digitale Grundschaltung — messtechnisch dokumentiert | Hardwareentwicklung + Digitale Systeme |
-| P6 | 31–38 | Linux-Audiosystem — Webradio oder Musikplayer auf Raspberry Pi | Digitale Systeme + Kommunikationssysteme |
+| P1 | 1–5 | Projektauftrag, Lastenheft, Pflichtenheft und Terminplan | Fachspezifische Softwaretechnik |
+| P2 | 6–10 | Falling Sticks — Reaktionsspiel mit Sensorik | Hardwareentwicklung + Messtechnik |
+| P3 | 11–15 | Gewächshaus mit Umweltmessung | Hardwareentwicklung + Messtechnik |
+| P4 | 16–20 | Wasserrakete mit Höhenmessung | Messtechnik + Hardwareentwicklung |
+| P5 | 21–25 | Airhockey — elektronischer Tisch mit Treffererkennung | Hardwareentwicklung + Messtechnik |
+| P6 | 26–29 | Spielmessung — Zeit, Geschwindigkeit oder Trefferzahl | Messtechnik + Fachspezifische Softwaretechnik |
+| P7 | 30–33 | Pick & Place (SPS) — einfache Station mit Ablaufsteuerung | Hardwareentwicklung + Fachspezifische Softwaretechnik |
+| P8 | 34–36 | Datenbank - Vergleichs-DB | Fachspezifische Softwaretechnik + Messtechnik |
+| P9 | 37–38 | Abschlussprojekt | alle Fachgebiete |
 
 ## Projekte 3. Jahrgang
 
@@ -81,14 +59,9 @@ Leitprojekt des Jahres: **Drahtloses Mess- und Regelsystem**.
 
 ## 5. Jahrgang
 
-Im 5. Jahrgang gibt es kein kleines Projektband mehr.
-
-**Wichtig:** Der aktive Unterricht endet Ende April (Maturaprüfungen).
-Es stehen realistisch ca. 28–30 Unterrichtswochen zur Verfügung.
-
-Der Lehrplan schreibt **fächerübergreifende Projekte mit komplexen Anforderungen** vor.
-Wie diese organisiert werden — als eigenständiges Jahresprojekt oder in Koordination
-mit der Diplomarbeit — ist **schulautonom** und wird in Abstimmung mit der Schulleitung festgelegt.
+Im 5. Jahrgang gibt es kein Projektband im engeren Sinn. Der Unterricht läuft im
+Werkstättenlaboratorium und begleitet die Diplomarbeit. Ca. 28–30 Wochen stehen
+zur Verfügung, der aktive Unterricht endet Ende April.
 
 | Phase | Wochen | Inhalt |
 |-------|--------|--------|
@@ -97,11 +70,7 @@ mit der Diplomarbeit — ist **schulautonom** und wird in Abstimmung mit der Sch
 | Test und Verifikation | 19–24 | Testplan, Soll-/Ist-Vergleich, Optimierung, Qualitätssicherung |
 | Abschluss | 25–30 | Dokumentation, Präsentation, Demonstration — vor Ende April |
 
----
-
 ## Bewertungslogik
-
-Eine praktikable Verteilung pro Projekt ist:
 
 | Kriterium | Gewichtung |
 |-----------|-----------|
@@ -112,30 +81,12 @@ Eine praktikable Verteilung pro Projekt ist:
 
 Im 5. Jahrgang orientiert sich die Beurteilung an den Kriterien der Reifeprüfung.
 
----
-
 ## Progression über alle Jahrgänge
 
 | Jahrgang | Leitprojekt | Schwerpunkt | Selbstständigkeit |
 |----------|-------------|-------------|-------------------|
 | 1 | Elektronische Leuchte | Grundfertigkeiten, einfache Schaltungen | angeleitet |
-| 2 | Linux-Audiosystem | PCB, SMD, Embedded Linux | teilweise angeleitet |
+| 2 | Mess-, Steuerungs- und Automatisierungsprojekte | Projektmanagement, Sensorik, Messung | teilweise angeleitet |
 | 3 | Digitales Messsystem | Systeme kombinieren, messen, vernetzen | begleitet |
 | 4 | Drahtloses Mess- und Regelsystem | Regelung, Echtzeit, Kommunikation | weitgehend selbstständig |
-| 5 | Fächerübergreifendes Komplexprojekt | alle Fachgebiete, ca. 30 Wochen | vollständig eigenverantwortlich |
-
----
-
-## Warum diese Struktur sinnvoll ist
-
-Mehrere kleinere Projekte sind in den unteren Jahrgängen didaktisch stärker
-als ein einziges großes Jahresprojekt, weil sie:
-- schnellere Erfolgserlebnisse bieten
-- Teilkompetenzen klarer sichtbar machen
-- Fehlersuche mehrfach trainieren
-- die Leistungsbeurteilung erleichtern
-- besser an Material, Werkstatt und Stundenrhythmus anpassbar sind
-
-In den oberen Jahrgängen kehrt sich das um: ein großes, komplexes Projekt
-mit langen Laufzeiten entspricht der ingenieurmäßigen Arbeitsrealität
-und bereitet auf die Anforderungen des Abschlussjahres vor.
+| 5 | Diplomarbeit / Werkstättenlaboratorium | alle Fachgebiete, ca. 30 Wochen | vollständig eigenverantwortlich |
